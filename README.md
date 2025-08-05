@@ -83,7 +83,7 @@ Interactive features:
 
 
 ### Product & Channel Performance
-![Product_Channel](https://github.com/tushar0215/Urban_Mart_Sale_Analysis_Dashboard-/blob/main/Urban%20Mart%20Overview.png)
+![Product_Channel](https://github.com/tushar0215/Urban_Mart_Sale_Analysis_Dashboard-/blob/main/Product%20%26%20Channel%20Performance.png)
 
 ### Geographic Insights
 ![Geographic_Insights](./Screenshot%20(60).png)
