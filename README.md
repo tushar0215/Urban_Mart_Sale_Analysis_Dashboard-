@@ -78,6 +78,9 @@ Interactive features:
 
 ## 📷 Screenshots
 
+### Urban Mart Overview 
+![Overview](https://github.com/tushar0215/Urban_Mart_Sale_Analysis_Dashboard-/blob/main/Urban%20Mart%20Overview.png)
+
 
 ### Product & Channel Performance
 ![Product_Channel](https://github.com/tushar0215/Urban_Mart_Sale_Analysis_Dashboard-/blob/main/Urban%20Mart%20Overview.png)
