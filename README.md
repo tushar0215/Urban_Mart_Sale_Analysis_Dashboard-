@@ -1,7 +1,7 @@
 # Urban_Mart_Sale_Analysis_Dashboard-
 # 🛒 Urban Mart Sales Analysis
 
-A comprehensive data analysis project combining **Python-based EDA** and a **Power BI dashboard** to uncover business insights from UrbanCartCo’s sales data (2014–2018). The objective is to support data-driven decisions around product offerings, customer retention, and regional sales strategies.
+A comprehensive data analysis project combining **Python-based EDA** and a **Power BI dashboard** to uncover business insights from Urban Mart’s sales data . The objective is to support data-driven decisions around product offerings, customer retention, and regional sales strategies.
 
 ---
 
